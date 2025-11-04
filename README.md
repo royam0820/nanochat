@@ -6,7 +6,7 @@ A simple, standalone CPU-compatible text generation tool using the nanochat mode
 
 This project includes:
 - A standalone text generation script that works on CPU
-- Automatic model downloading from HuggingFace
+- Automatic model downloading from HuggingFace (https://huggingface.co/sdobson/nanochat)
 - Simple launch script for easy execution
 - PyTorch 2.6 compatibility fixes
 
